@@ -1,8 +1,11 @@
 # crystal-bath
-Video Steganography/Steganalysis for high compressed video files in C++ using DCT and Pixel Value Differencing
+Video Steganography/Steganalysis for high compressed video files in C++ using DCT and Pixel Value Differencing. 
+
 Hides any binary data inside of a video file.
-Features functionality for basic error checking
-Performs statistical detection using K-means
+
+Features functionality for basic error checking.
+
+Performs statistical detection using K-means.
 
 I'm in the process of refactoring this in C++ since there will probably be an upcoming lack of support for C# or Delphi for Linux/BSD, 
 (and those are primarily Windows Languages)
