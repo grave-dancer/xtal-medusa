@@ -11,4 +11,4 @@ The video input format has to be in raw YUV.
 
 Once video steganography is performed, you can re-convert the video to a secondary format MPEG-4, H.264/265, WebM
 
-Email network.succubus@gmail.com
+Email network (dot) succubus (at) gmail (dot) com
