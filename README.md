@@ -1,8 +1,8 @@
-# mercury-medusa
+# xtal-medusa
 
 Data Bending: Video Steganography/Steganalysis for high compressed video files in C++ using DCT and Pixel Value Differencing. 
 
-mercury-medusa hides any binary data inside of a video file using steganography. Changes to the video are undetectable and do not alter the video's file size. Stronger embedding strengths result in a scotoma-like blur in the video stream.
+xtal-medusa hides any binary data inside of a video file using steganography. Changes to the video are undetectable and do not alter the video's file size. Stronger embedding strengths result in a scotoma-like blur in the video stream.
 
 Features functionality for basic error checking.
 
