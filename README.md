@@ -8,7 +8,7 @@ Features functionality for basic error checking.
 
 Performs statistical detection using K-means.
 
-I'm in the process of refactoring this in C++ since there will probably be an upcoming lack of support for C# or Delphi for Linux/BSD, 
+I'm in the process of refactoring this in C++ since there will probably be an upcoming lack of support for Delphi for Linux/BSD, 
 (and those are primarily Windows Languages)
 
 TODO:
